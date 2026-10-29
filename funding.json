@@ -48,8 +48,8 @@
         "guid": "project-support",
         "status": "active",
         "name": "GPS-Denied UAV Navigation Project Support",
-        "description": "Contributions will support development, documentation, testing, and maintenance of the planned open-source navigation software. Funding needs and project scope will be documented publicly as the repository is established.",
-        "amount": 0,
+        "description": "Estimated overall funding need is approximately USD 25,000–50,000 to advance the GPS-denied UAV navigation project, including development of the open-source navigation software, documentation, integration, testing, and validation with relevant hardware. The amount in this manifest represents the upper end of this estimated one-time project funding target; spending and milestones will be documented as the project develops.",
+        "amount": 50000,
         "currency": "USD",
         "frequency": "one-time",
         "channels": [
