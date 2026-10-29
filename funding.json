@@ -9,7 +9,7 @@
     "description": "Engineer working on GPS-denied autonomous UAV navigation and related embedded software. The project is intended to publish reusable navigation software and documentation for the open-source community as development and licensing are finalized.",
     "webpageUrl": {
       "url": "https://github.com/vinayak-sys",
-      "wellKnown": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation/raw/refs/heads/main/.well-known/funding-manifest-urls"
+      "wellKnown": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation/blob/main/.well-known/funding-manifest-urls"
     }
   },
   "projects": [
@@ -19,11 +19,11 @@
       "description": "An intended open-source software project exploring navigation for unmanned aerial vehicles when GPS is unavailable or unreliable. Planned work includes software, integration notes, and documentation for sensor-based motion estimation and autonomous navigation. The repository, initial public release, and open-source license must be published before this manifest is submitted as a live project listing.",
       "webpageUrl": {
         "url": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation",
-        "wellKnown": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation/raw/refs/heads/main/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation/blob/main/.well-known/funding-manifest-urls"
       },
       "repositoryUrl": {
         "url": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation",
-        "wellKnown": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation/raw/refs/heads/main/.well-known/funding-manifest-urls"
+        "wellKnown": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation/blob/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:MIT"
