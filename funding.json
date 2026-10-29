@@ -45,11 +45,23 @@
     ],
     "plans": [
       {
-        "guid": "project-support",
+        "guid": "tranche-1-core-development",
         "status": "active",
-        "name": "GPS-Denied UAV Navigation Project Support",
-        "description": "Estimated overall funding need is approximately USD 25,000–50,000 to advance the GPS-denied UAV navigation project, including development of the open-source navigation software, documentation, integration, testing, and validation with relevant hardware. The amount in this manifest represents the upper end of this estimated one-time project funding target; spending and milestones will be documented as the project develops.",
-        "amount": 50000,
+        "name": "Tranche 1 — Core Open-Source Development",
+        "description": "First tranche: USD 25,000 to establish and publish the initial open-source software baseline. Planned work includes repository setup, core navigation-software modules, reproducible development and testing instructions, technical documentation, and an initial public release under a clearly documented open-source license. Deliverables and spending will be documented publicly as appropriate.",
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "bank-transfer-contact"
+        ]
+      },
+      {
+        "guid": "tranche-2-integration-validation",
+        "status": "active",
+        "name": "Tranche 2 — Integration, Testing and Validation",
+        "description": "Second tranche: an additional USD 25,000, intended to follow completion and review of the first-tranche deliverables. Planned work includes software integration notes, expanded automated and simulation tests, hardware-integration documentation, validation reports, bug fixes, and community-facing documentation. This brings the proposed total project support to USD 50,000 across two milestone-based tranches; the second tranche is conditional on progress and funding approval.",
+        "amount": 25000,
         "currency": "USD",
         "frequency": "one-time",
         "channels": [
