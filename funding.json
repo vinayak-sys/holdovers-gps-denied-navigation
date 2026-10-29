@@ -1,0 +1,61 @@
+{
+  "$schema": "https://fundingjson.org/schema/v1.1.0.json",
+  "version": "v1.1.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Vinayak Raj Sharma",
+    "email": "vinayakrajsharma21@gmail.com",
+    "description": "Engineer working on GPS-denied autonomous UAV navigation and related embedded software. The project is intended to publish reusable navigation software and documentation for the open-source community as development and licensing are finalized.",
+    "webpageUrl": {
+      "url": "https://github.com/vinayak-sys"
+    }
+  },
+  "projects": [
+    {
+      "guid": "gps-denied-uav-navigation",
+      "name": "GPS-Denied UAV Navigation",
+      "description": "An intended open-source software project exploring navigation for unmanned aerial vehicles when GPS is unavailable or unreliable. Planned work includes software, integration notes, and documentation for sensor-based motion estimation and autonomous navigation. The repository, initial public release, and open-source license must be published before this manifest is submitted as a live project listing.",
+      "webpageUrl": {
+        "url": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/vinayak-sys/holdovers-gps-denied-navigation"
+      },
+      "licenses": [
+        "spdx:MIT"
+      ],
+      "tags": [
+        "robotics",
+        "autonomous-systems",
+        "navigation",
+        "embedded-systems",
+        "uav"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "bank-transfer-contact",
+        "type": "bank",
+        "address": "",
+        "description": "Please contact vinayakrajsharma21@gmail.com for payment details before making a transfer."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "project-support",
+        "status": "active",
+        "name": "GPS-Denied UAV Navigation Project Support",
+        "description": "Contributions will support development, documentation, testing, and maintenance of the planned open-source navigation software. Funding needs and project scope will be documented publicly as the repository is established.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "bank-transfer-contact"
+        ]
+      }
+    ]
+  }
+}
